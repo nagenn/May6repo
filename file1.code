@@ -1,4 +1,5 @@
 #Sample line of code
 #Another Sample line of code
 #more and more interesting code
-#trying to create a conflict
+if a > b then print "Greater"
+
